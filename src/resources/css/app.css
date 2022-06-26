@@ -1,0 +1,16 @@
+body {
+    min-height: 100vh;
+}
+
+header {
+    background-color: #141414;
+    color: #ececec;
+}
+
+.container-custom {
+    height: 100%;
+}
+
+.top-bar-image {
+    width: 25px;
+}
