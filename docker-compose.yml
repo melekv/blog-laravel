@@ -23,6 +23,7 @@ services:
 
   myadmin:
     image: phpmyadmin
+    container_name: phpmyadmin
     environment:
       MYSQL_ROOT_PASSWORD: root
     ports:
